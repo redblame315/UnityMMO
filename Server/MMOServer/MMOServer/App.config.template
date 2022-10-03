@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <add name ="ConnectionString" connectionString="server=localhost;user=root;database=login;port=3306;password=root;"/>
+	<add name ="LoginServerConnectionString" connectionString="localhost"/>
+	<add name ="WorldServerConnectionString" connectionString="localhost"/>
+  </connectionStrings>
+</configuration>
